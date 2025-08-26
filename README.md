@@ -2,15 +2,6 @@
 
 This will be my process of going through the Brim modules in THM.
 
-# Quick Info
-
-Landing Page:
-
-Pools: Data resources, investigated pcap and log files.
-
-Queries: List of available queries.
-
-History: List of launched queries.
 
 **1. Process the "sample.pcap" file and look at the details of the first DNS log that appear on the dashboard. What is the "qclass_name"?**
 
